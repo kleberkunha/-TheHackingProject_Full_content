@@ -1,0 +1,127 @@
+*{
+  font-family: 'Crimson Text', serif;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+  opacity: 0.8;
+}
+.navbar-nav-scroll{
+  --bs-scroll-height: 300px;
+}
+.content{
+  margin-right: 33px;
+  margin-top: 30px;
+}
+.bg-top{
+  height: 475px;
+  background: transparent url("../img/backgrounddogs.png") left bottom no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin: 0px;
+}
+ul{
+  list-style: none;
+}
+/*MIDDLE OF THE SITE*/
+.section-body{
+  border: 1px solid blue;
+  display: flex;
+  justify-content: center;
+}
+#fig-1{
+  height: 270px;
+  background: transparent url("http://www.aranciatravel.com/en/images/booking/travel.png")  center no-repeat;
+  background-size: contain;
+}
+#fig-2{
+  height: 270px;
+  background: transparent url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfsyiDgv774jyDmtxWG3sNYy36LnuPgUPkfA&usqp=CAU") center no-repeat;
+}
+#fig-3{
+  height: 270px;
+  background: transparent url("https://blog.healthypawspetinsurance.com/wp-content/uploads/canstockphoto12290016.jpg") center no-repeat;
+  background-size: contain;
+}
+#box{
+  height: 350px;
+}
+/*_______________________testPush_______________________________*/
+
+
+
+
+
+/*CORPO DO SITE*/
+#bg-2{
+  margin-top: 28px;
+  background: url("../img/bg2.png") bottom no-repeat;
+  height: 350px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#prices{
+  margin-top: 50px;
+}
+#main-services-box,
+#main-services-box li{
+  margin: 0px;
+  padding: 0px;
+}
+/*CORPO DO SITE  FIM*/
+
+
+
+
+
+
+
+
+
+
+/*MIDDLE OF THE SITE*/
+
+/*BACKGROUND DAS BOX DA PARTE DE SERVICOS*/
+#item1{
+  background: url("https://allcritterspetcare.com/wp-content/uploads/2019/02/pet_taxi.png") center no-repeat;
+background-size: cover;
+background-position: center;
+}
+#tb-1{
+  background: url("https://static.clubedaanamariabraga.com.br/wp-content/uploads/2019/08/banho-cachorro-em-casa.jpg")center  no-repeat;
+background-size: cover;
+}
+#tb-2{
+  background: url("https://mypetsnanny.com.br/wp-content/uploads/2020/07/Prancheta-1-copia-4-14.jpg") center no-repeat;
+  background-size: cover;
+}
+#tb-3{
+  background: url("https://thevetservice.com/wp-content/uploads/2019/06/options-huge-vet-bill.jpg") center no-repeat;
+  background-size: cover;
+}
+#tb-4{
+  background: url("https://homebnc.com/homeimg/2019/10/07-best-outdoor-dog-house-design-ideas-homebnc.jpg") center no-repeat;
+  background-size: cover;
+}
+#tb-5{
+  background: url("https://i.pinimg.com/originals/79/de/b9/79deb98454d86aba4b620fd2496ae10b.png")center  no-repeat;
+  background-size: contain;
+}
+#tb-6{
+  background: url("https://cdn.massagemag.com/wordpress/wp-content/uploads/Dog_massage.jpg")center  no-repeat;
+  background-size: cover;
+}
+/*BACKGROUND DAS BOX DA PARTE DE SERVICOS  FIM*/
+
+
+Check availability
