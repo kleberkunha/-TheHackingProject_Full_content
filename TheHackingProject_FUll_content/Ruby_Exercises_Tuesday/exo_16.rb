@@ -1,4 +1,4 @@
-puts "Hello, welcome to my super pyramid ! How many levels you want ?"
+puts "Hello, welcome to my super pyramid ! How many levels between 1 and 25 do you want?"
 
 num = gets.chomp()
 puts "Look here the pyramid"
