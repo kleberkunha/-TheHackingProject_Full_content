@@ -12,3 +12,9 @@ if num.to_i > 0 && num.to_i <= 25
         char = "#{char}##"
     end
 end
+
+
+
+##I was so in to study that i forget to find a partner, i did most of the exercises by my self, some the last one 
+#i asked for short help, i'm following the documentation of ruby and some others sites, and i'm happy with the results
+#i was not thinking that i will learn, i tried to code before the school so also this gave me a good hand :)
