@@ -15,3 +15,6 @@ num.times do
  puts mail
 end
 
+
+ puts emails.selec.each_with_index do {|item, index|}
+    

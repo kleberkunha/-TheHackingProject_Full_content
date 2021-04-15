@@ -1,5 +1,5 @@
 emails = Array.new()
-num = gets.chomp.to_i + 1
+num = gets.chomp.to_i 
 numeros_de_emails = 0
 num.times do 
     if numeros_de_emails === num

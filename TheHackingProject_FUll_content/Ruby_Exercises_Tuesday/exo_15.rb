@@ -8,7 +8,7 @@ vr = 0
 
 if num.to_i > 0 && num.to_i <= 25
     for i in vr.to_i..num.to_i
-        puts char.center(num.to_i - 25)
+        puts char.center(num.to_i - 25 )
         char = "#{char}#"
     end
 end
